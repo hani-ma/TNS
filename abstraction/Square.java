@@ -1,4 +1,3 @@
-package org.cec.abstraction;
 
 public class Square extends Shape {
 	private float side;
