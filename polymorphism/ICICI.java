@@ -1,4 +1,3 @@
-package org.cec.polymorphism;
 
 public class ICICI extends Bank {
 	@Override
