@@ -1,5 +1,4 @@
-package org.cec.inheritance.singlelevel;
-
+p
 public class Citizen {
 	private String name;
 	private int adhaarNumber;
