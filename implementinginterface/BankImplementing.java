@@ -1,6 +1,6 @@
 
 
-public class BankImpl implements Bank {
+public class BankImplement implements Bank {
 	
 	@Override
 	public void deposit(Account account, double amount) {
