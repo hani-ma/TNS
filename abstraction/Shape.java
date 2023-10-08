@@ -1,5 +1,3 @@
-package org.cec.abstraction;
-
 public abstract class Shape {
 	
 	protected float area;
