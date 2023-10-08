@@ -1,4 +1,4 @@
-package org.cec.exceptionhandling;
+
 
 public class AgeValidator {
 	static void validateAge(int age) throws InvalidAgeException {
