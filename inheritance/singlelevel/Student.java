@@ -1,4 +1,4 @@
-p
+
 public class Citizen {
 	private String name;
 	private int adhaarNumber;
