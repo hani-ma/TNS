@@ -1,4 +1,3 @@
-package org.cec.polymorphism;
 
 public class Point {
 	private float x;
