@@ -1,4 +1,4 @@
-package org.cec.implementinginterface;
+
 
 public class BankImpl implements Bank {
 	
