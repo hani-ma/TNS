@@ -1,5 +1,5 @@
 
-public class TestThrow1 {
+public class TestThrow {
 
 	static void validate(int age)
 	{
