@@ -1,4 +1,3 @@
-package org.cec.exceptionhandling;
 
 public class TestThrow1 {
 
