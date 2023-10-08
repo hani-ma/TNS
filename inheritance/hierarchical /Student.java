@@ -1,4 +1,3 @@
-package org.cec.inheritance.hirarchial;
 
 public class Student extends Person {
 	private int rollNo;
