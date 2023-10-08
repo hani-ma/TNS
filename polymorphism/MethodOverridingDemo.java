@@ -1,6 +1,6 @@
-package org.cec.polymorphism;
 
-public class OverridingDemo {
+
+public class MethodOverridingDemo {
 	static  int a;
 	public static void main(String[] args) {
 		
