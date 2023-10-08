@@ -1,4 +1,4 @@
-package org.cec.implementinginterface;
+
 
 public interface Bank {
 	double MIN_BALANCE = 1000;
