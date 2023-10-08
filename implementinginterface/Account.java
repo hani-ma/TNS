@@ -1,4 +1,3 @@
-package org.cec.implementinginterface;
 
 public class Account {
 	private int accNo;
