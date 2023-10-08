@@ -1,5 +1,3 @@
-package org.cec.staticconcept.staticvarible;
-
 public class Employee {
 	// Declare instance variables.
     private String name;
