@@ -1,5 +1,3 @@
-package org.cec.staticconcept.staticblockmethod;
-
 public class MyClassDemo {
 
 	public static void main(String[] args) {
