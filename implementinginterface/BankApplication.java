@@ -1,6 +1,6 @@
 
 
-public class BankAppilication {
+public class BankApplication {
 	public static void main(String[] args) {
 	     // Create a Bank instance
 	     Bank bank = new BankImpl();
