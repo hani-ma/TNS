@@ -1,4 +1,3 @@
-package org.cec.exceptionhandling;
 
 import java.util.Scanner;
 
