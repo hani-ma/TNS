@@ -1,6 +1,6 @@
-package org.cec.implementinginterface;
 
-public class BankApplication {
+
+public class BankAppilication {
 	public static void main(String[] args) {
 	     // Create a Bank instance
 	     Bank bank = new BankImpl();
