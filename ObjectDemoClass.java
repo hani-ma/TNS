@@ -1,4 +1,3 @@
-package org.cec.lang;
 
 class Sample{
 	
