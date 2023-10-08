@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class UsingThrowDemo {
+public class UsinThrowDemo {
 	
 	public static void main(String[] args) {
 		StudentInfo obj=new StudentInfo();
