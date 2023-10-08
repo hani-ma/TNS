@@ -1,4 +1,4 @@
-package org.cec.usingfinal;
+
 
 public class FinalMethodClass {
 	// constructor
