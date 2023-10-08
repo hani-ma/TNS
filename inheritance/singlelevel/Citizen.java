@@ -1,4 +1,3 @@
-package org.cec.inheritance.singlelevel;
 
 public class Citizen {
 	private String name;
