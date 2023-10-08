@@ -1,4 +1,3 @@
-package org.cec.usingfinal;
 
 public class FinalClass {
 	void show() {
