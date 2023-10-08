@@ -1,4 +1,4 @@
-package org.cec.exceptionhandling;
+
 
 public class InvalidAgeException extends Exception {
 	String message;
