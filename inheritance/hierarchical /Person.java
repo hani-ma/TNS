@@ -1,4 +1,4 @@
-package org.cec.inheritance.hirarchial;
+
 
 public class HierachialInheritanceDemo {
 
