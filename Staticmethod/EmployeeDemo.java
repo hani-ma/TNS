@@ -1,5 +1,3 @@
-package org.cec.staticconcept.staticvarible;
-
 public class EmployeeDemo {
 
 	public static void main(String[] args) {
